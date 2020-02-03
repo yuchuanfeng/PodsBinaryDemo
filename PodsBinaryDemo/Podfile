@@ -1,0 +1,4 @@
+
+target 'PodsBinaryDemo' do
+    pod 'BinaryPods', :git => 'https://github.com/yuchuanfeng/BinaryPods.git', :branch => 'master'
+end
